@@ -1,0 +1,13 @@
+
+name = Ideograph WYSIWYG Bartik
+description = A simple subtheme of bartik to control the content area in the WYSIWYG editor.
+package = Ideograph
+version = VERSION
+core = 7.x
+
+base theme = bartik
+
+
+stylesheets[all][] = css/wysiwyg.css
+stylesheets[all][] = css/fonts.css
+stylesheets[all][] = css/nodes.css
