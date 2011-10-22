@@ -1,0 +1,42 @@
+
+
+
+h3.node-section {
+  border-top: 1px dotted #ccc;
+  margin-top: 1em;
+  padding-top: 0.25em;
+  font-size: 1.8em;
+  width:100%;
+  text-transform:lowercase;
+}
+h4.node-subsection {
+  border-top: 1px dotted #ccc;
+  margin-top:1em;
+  padding-top:0.2em;
+  font-size: 1.4em;
+  width:100%;
+}
+
+
+.node div.img-left {
+  float:left;
+  margin: 5px 15px 15px 0;
+}
+.node div.img-right{
+  float:right;
+  margin: 5px 0 15px 15px;
+}
+
+.node div.img-left a,
+.node div.img-right a {
+  display:block;
+  padding:5px;
+  border:1px solid #ccc;
+  line-height:1em;
+}
+.node div.img-left a:hover,
+.node div.img-right a:hover {
+  background:#CCEE00;
+  border:1px solid #ccc;
+  cursor:pointer;
+}
