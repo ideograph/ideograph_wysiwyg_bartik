@@ -1,6 +1,4 @@
 
-
-
 h3.node-section {
   border-top: 1px dotted #ccc;
   margin-top: 1em;
@@ -25,6 +23,15 @@ h4.node-subsection {
 .node div.img-right{
   float:right;
   margin: 5px 0 15px 15px;
+}
+.node div.img-center {
+  margin: 5px auto 15px;
+  text-align:center;
+}
+.node div.img-center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .node div.img-left a,
