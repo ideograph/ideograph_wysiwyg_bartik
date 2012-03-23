@@ -1,5 +1,5 @@
 
-h3.node-section {
+h4.node-section {
   border-top: 1px dotted #ccc;
   margin-top: 1em;
   padding-top: 0.25em;
@@ -7,7 +7,7 @@ h3.node-section {
   width:100%;
   text-transform:lowercase;
 }
-h4.node-subsection {
+h5.node-subsection {
   border-top: 1px dotted #ccc;
   margin-top:1em;
   padding-top:0.2em;
